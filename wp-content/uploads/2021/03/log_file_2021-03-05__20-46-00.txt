@@ -1,0 +1,20 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/It_soft_demo
+Data file = C:\wamp64\www\It_soft_demo/wp-content/uploads/2021/03/business-point-demo-content-1.zip
+Widget file = C:\wamp64\www\It_soft_demo/wp-content/uploads/2021/03/one-click-demo-import.2.6.1.zip
+Customizer file = C:\wamp64\www\It_soft_demo/wp-content/uploads/2021/03/one-click-demo-import.2.6.1-1.zip
+Redux files:
+not defined!
+
+---Importing widgets---
+Error: Widget import data could not be read. Please try a different file.
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
